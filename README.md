@@ -1,0 +1,2 @@
+# algo
+simple code 
